@@ -1,0 +1,23 @@
+State what the advantages of Virtual Machines are:
+  Virtual machines are fast and easy to make, but also to destroy. 
+  They allow multiple operating systems environments to exist simultaneously on the same machine. I've had classes that needed to use Linux, 
+  so I had to install install it on a VM.
+  I first started using VMs to test sketchy program and viruses. Running them through the VM protects my computer and all of its data.
+  I first learned about them through a youtuber who would run famous viruses on his VM to show exactly what would happen to a computer.
+
+State what the advantages of containers are:
+  Compared to VMs, containers use a lot less resources by running off of processes instead of RAM and disk space.
+  They also do not include operating system images like VMs.
+  Containers allow applications to be more rapidly deployed, patched, or scaled which results in greater efficiency.
+  Containers have less overhead which allows them to be faster than VMs.
+
+State when you might select physical machines over virtual machines:
+  You would choose physical machines when you need the most power and efficiency, in servers for example where it's hardware comes in play. 
+  
+How the cloud would aid microservices:
+  The cloud enables users to access the same files and applications from almost any device, because the computing and storage takes 
+  place on servers in a data center, instead of locally on the user device.
+  A way the cloud would benefit microservices is that a developer can work and change things on the back end while the user can not see it happening.
+  Using the cloud can help development teams work at the same time, either multiple teams working on different parts of a microservice or multiple teams
+  working on different microservices for the main entity at the same time. Cloud microservices allow for reliability if a microservice fails, 
+  but the main functionality and other services still work. 
