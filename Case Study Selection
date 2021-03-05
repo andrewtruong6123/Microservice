@@ -1,10 +1,10 @@
-The microservice architecture at eBay and its impacts.
+Option #21:  How doesgoogle cloud provide a framework for delivering microservices and serverless applications –using the Micronaut framework.
 
-I would like to create a case study on this topic as I use it quite often and am interested in seeing how microservices affected their service.
-
+I would like to create a case study on this topic as we all use google services daily, but the micronaut framework sounds interesting.
 
 
 Sources I may use:
-https://divante.com/blog/10-companies-that-implemented-the-microservice-architecture-and-paved-the-way-for-others/
-https://www.slideshare.net/tcng3716/ebay-architecture?next_slideshow=1
-https://dzone.com/articles/microservices-at-ebay-part-2-sharing-modules-acros
+https://www.youtube.com/watch?v=RdemnsW6sOQ
+https://cloud.google.com/appengine/docs/standard/python/microservices-on-app-engine
+https://micronaut.io/
+https://dzone.com/articles/a-quick-guide-to-microservices-with-the-micronaut
